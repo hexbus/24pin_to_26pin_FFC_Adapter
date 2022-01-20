@@ -32,15 +32,15 @@ Teac 26 pin Floppy drive pinout: http://www.bitsavers.org/pdf/teac/FD-05HF-8830.
 | 20 | 13	| /TRK00 |
 | 18 | 14	| /WGATE |
 | 25 | 15	| GND	(tie together) |
-| 16 | 16	| /WDATE |
+| 16 | 16	| /WDATA |
 | 25 | 17	| GND	(tie together) |
 | 14 | 18	| /STEP	|
 | 12 | 19	| /DIR |
-| 10 | 20	| /MOTENABLE |	
+| 10 | 20	| /MOT ENABLE |	
 | n/c	| 21 |	n/c	|
-| 4	| 22 | /DRVSEL |
+| 4	| 22 | /DRV SEL |
 | 2	| 23 | /INDEX	 |
-| 6	| 24 | /DSKCHG	|
+| 6	| 24 | /DSK CHG	|
 
 ### Unused pins:
 
